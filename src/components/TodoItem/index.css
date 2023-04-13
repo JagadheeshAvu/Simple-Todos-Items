@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-elements {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+}
+.button {
+  color: #ff0b37;
+  border-radius: 4px;
+  border: 1px solid #ff0b37;
+  background-color: #ffffff;
+  margin-top: 20px;
+  margin-left: 20px;
+}
